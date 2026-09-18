@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "sandesh",
+        "age": 20,
+        "course": "mca",
+        "email": "sandeshpate547@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "sandesh",
+        "age": 20,
+        "course": "mca",
+        "email": "sandesh"
+    },
+    {
+        "id": 106,
+        "name": "chaityna",
+        "age": 24,
+        "course": "mca",
+        "email": "chaityana@gamil.com"
+    }
+]
