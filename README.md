@@ -6,10 +6,11 @@
 
 ## 2. Student Details
 
-**Name:** Sandesh Pate
-**Course:** MCA Semester I
 **Subject:** Python Programming & Relational Database
-**Project Type:** Mini Project – Assignment 1
+**Submitted By:** Sandesh Suresh  Pate
+**Roll No:** 25
+**Course:** MCA Semester I
+**Assignment 1-** Mini Project:Console Record-Management Application
 
 ---
 

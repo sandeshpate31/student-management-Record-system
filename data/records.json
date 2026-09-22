@@ -8,10 +8,10 @@
     },
     {
         "id": 2,
-        "name": "sandesh",
-        "age": 20,
-        "course": "mca",
-        "email": "sandesh"
+        "name": "vishal kemu",
+        "age": 26,
+        "course": "BTECH",
+        "email": "Vishal@gmail.com"
     },
     {
         "id": 106,
@@ -19,5 +19,12 @@
         "age": 24,
         "course": "mca",
         "email": "chaityana@gamil.com"
+    },
+    {
+        "id": 109,
+        "name": "kunal verma",
+        "age": 26,
+        "course": "MCA",
+        "email": "kunal@gmail.com"
     }
 ]

@@ -1,15 +1,15 @@
 # ASSIGNMENT REPORT
 
 ## Mini Project –# Student Record Management System Application
+## Mini Project-# Console Record-Management Application
 
 ### MCA Semester I
 
 **Subject:** Python Programming & Relational Database
-
-**Submitted By:** Sandesh Pate
-
+**Submitted By:** Sandesh Suresh  Pate
+**Roll No:** 25
 **Course:** MCA Semester I
-
+**Assignment 1-** Mini Project:Console Record-Management Application
 ---
 
 # 1. Introduction
@@ -542,6 +542,8 @@ The project can be enhanced by adding:
 
 # 26. Screenshots
 
+
+
 The following screenshots should be included in the final report:
 
 1. Project folder structure
@@ -555,6 +557,9 @@ The following screenshots should be included in the final report:
 9. Delete record
 10. JSON file
 11. GitHub repository
+
+
+
 
 ---
 
