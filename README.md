@@ -358,7 +358,7 @@ The project provides a simple and practical solution for managing student record
 **GitHub Repository Link:**
 (https://github.com/sandeshpate31/student-management-Record-system/)
 
-## 21. Author
+## 22. Author
 
 **Sandesh Pate**
 MCA Semester I
