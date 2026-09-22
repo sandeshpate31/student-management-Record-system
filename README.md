@@ -7,9 +7,13 @@
 ## 2. Student Details
 
 **Subject:** Python Programming & Relational Database
-**Submitted By:** Sandesh Suresh  Pate
+
+**Student Name:** Sandesh Suresh  Pate
+
 **Roll No:** 25
+
 **Course:** MCA Semester I
+
 **Assignment 1-** Mini Project:Console Record-Management Application
 
 ---
