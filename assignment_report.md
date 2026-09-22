@@ -6,7 +6,7 @@
 ### MCA Semester I
 
 **Subject:** Python Programming & Relational Database
-**Submitted By:** Sandesh Suresh  Pate
+**Student Name:** Sandesh Suresh  Pate
 **Roll No:** 25
 **Course:** MCA Semester I
 **Assignment 1-** Mini Project:Console Record-Management Application
@@ -557,7 +557,8 @@ The following screenshots should be included in the final report:
 9. Delete record
 10. JSON file
 11. GitHub repository
-
+ADD RECORD:
+<img width="1920" height="1080" alt="add_Record" src="https://github.com/user-attachments/assets/32edacda-a5d1-48b4-a30a-55128628ad5c" />
 
 
 
