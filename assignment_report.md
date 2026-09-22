@@ -557,8 +557,25 @@ The following screenshots should be included in the final report:
 9. Delete record
 10. JSON file
 11. GitHub repository
+
+    
 ADD RECORD:
-<img width="1920" height="1080" alt="add_Record" src="https://github.com/user-attachments/assets/32edacda-a5d1-48b4-a30a-55128628ad5c" />
+<img width="800" height="450" alt="add_Record" src="https://github.com/user-attachments/assets/07277089-0d4e-4aa9-9275-da1eb23d46b9" />
+
+VIEW RECORD:
+<img width="800" height="450" alt="View_record" src="https://github.com/user-attachments/assets/0ecc70b6-7fb0-4dad-b9d7-abaf56f1121d" />
+
+SEARCH RECORD:
+<img width="800" height="450" alt="Search_record" src="https://github.com/user-attachments/assets/b3bcf57d-e290-44f0-88df-878ee2697cd5" />
+
+UPDATE RECORD:
+<img width="800" height="450" alt="update_record" src="https://github.com/user-attachments/assets/d71e50ba-a491-48f2-89ae-79bcd5d03398" />
+
+DELETE RECORD:
+<img width="800" height="450" alt="Delete_record" src="https://github.com/user-attachments/assets/9d14a183-0ed0-49dd-916d-6ee4901f084f" />
+
+MYSQL STUDENT STABLE:
+<img width="800" height="450" alt="SQL_DATABASE" src="https://github.com/user-attachments/assets/3bcbc1df-a637-4fa3-9843-e7f6ef3429b8" />
 
 
 
