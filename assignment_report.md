@@ -546,35 +546,37 @@ The project can be enhanced by adding:
 
 The following screenshots should be included in the final report:
 
-1. Project folder structure
-2. MySQL database
-3. MySQL students table
-4. Application menu
-5. Add record
-6. View records
-7. Search record
-8. Update record
-9. Delete record
-10. JSON file
-11. GitHub repository
+
+1. Add record
+2. View records
+3. Search record
+4. Update record
+5. Delete record
+6. MySQL students table
 
     
-ADD RECORD:
+1] ADD RECORD:
+
 <img width="800" height="450" alt="add_Record" src="https://github.com/user-attachments/assets/07277089-0d4e-4aa9-9275-da1eb23d46b9" />
 
-VIEW RECORD:
+2] VIEW RECORD:
+
 <img width="800" height="450" alt="View_record" src="https://github.com/user-attachments/assets/0ecc70b6-7fb0-4dad-b9d7-abaf56f1121d" />
 
-SEARCH RECORD:
+3] SEARCH RECORD:
+
 <img width="800" height="450" alt="Search_record" src="https://github.com/user-attachments/assets/b3bcf57d-e290-44f0-88df-878ee2697cd5" />
 
-UPDATE RECORD:
+4] UPDATE RECORD:
+
 <img width="800" height="450" alt="update_record" src="https://github.com/user-attachments/assets/d71e50ba-a491-48f2-89ae-79bcd5d03398" />
 
-DELETE RECORD:
+5] DELETE RECORD:
+
 <img width="800" height="450" alt="Delete_record" src="https://github.com/user-attachments/assets/9d14a183-0ed0-49dd-916d-6ee4901f084f" />
 
-MYSQL STUDENT STABLE:
+6] MYSQL STUDENT STABLE:
+
 <img width="800" height="450" alt="SQL_DATABASE" src="https://github.com/user-attachments/assets/3bcbc1df-a637-4fa3-9843-e7f6ef3429b8" />
 
 
